@@ -26,7 +26,9 @@ The Phantom Knowledge Project Data
 
 「ユニティちゃん 3Dモデルデータ」、「The Phantom Knowledge Project Data」、「ユニティちゃんライセンス ロゴ」はユニティちゃんライセンス条項に基づいて提供されています。
 
-このプロジェクトの利用時は「ユニティちゃんライセンス」の「キャラクター利用のガイドライン（FAQ)」URL: http://unity-chan.com/contents/faq/
+このプロジェクトの利用時は「ユニティちゃんライセンス」の「キャラクター利用のガイドライン（FAQ)」
+
+URL: http://unity-chan.com/contents/faq/
 
 をご覧いただき、ガイドラインに従ってご利用ください。
 
