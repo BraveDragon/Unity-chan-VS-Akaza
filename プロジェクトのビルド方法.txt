@@ -1,0 +1,27 @@
+＜プロジェクトのビルド方法＞
+
+1.Asset Storeから「Mezanix Fx Free」と「Simple Particle Pack」をそれぞれ検索してインポートします。
+
+2.「Open Scene」から「Main.unity」を開きます。
+
+3.Mainシーン中の「05_akaza」のPlayer2(Script)の「Bullet」に「Combat_Attacks_Fire_1_Cartoon」を設定し、
+
+「Combat_Attacks_Fire_1_Cartoon」を開いてCombat Attack(Script)の「Sounds」のチェックを外します。
+
+その後、「Add Component」から「Box Collider」を追加し、「Center」をX・Y・Z全て０、「Size」ををX・Y・Z全て２にします。
+
+4.Mainシーン中の「unitychan」のPlayer1(Script)の「Bullet」に「Combat_Attacks_Freeze_1_Cartoon」を設定し、
+
+「Combat_Attacks_Freeze_1_Cartoon」を開いてCombat Attack(Script)の「Sounds」のチェックを外します。
+
+その後、「Add Component」から「Box Collider」を追加し、「Center」をX・Y・Z全て０、「Size」ををX・Y・Z全て２にします。
+
+5.「MonsterA」を開き、「Monster_A(Script)」の「Explosion」に「Explosion04b」を追加します。
+
+6.「MonsterB」を開き、「Monster_B(Script)」の「Explosion」に「Explosion04b」を追加します。
+
+7.「Bullet1P」を開き、「Bullet_1P(Script)」の「Explosion」に「Explosion04b」を追加します。
+
+8.「Bullet2P」を開き、「Bullet_2P(Script)」の「Explosion」に「Explosion04b」を追加します。
+
+あとは普通にビルドして下さい。
