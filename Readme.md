@@ -51,4 +51,6 @@ URL: http://unity-chan.com/contents/license_jp/
 
 © Unity Technologies Japan/UCL
 
+実際のプレイ動画
+
 ![Demo](https://github.com/BraveDragon/Unity-chan-VS-Akaza/blob/master/DemoPlay.gif)
