@@ -10,11 +10,15 @@
 
 その後、「Add Component」から「Box Collider」を追加し、「Center」をX・Y・Z全て０、「Size」ををX・Y・Z全て２にします。
 
+それから、「Combat_Attacks_Fire_1_Cartoon」の「Tag」に「Bullet2」を設定します。
+
 4.Mainシーン中の「unitychan」のPlayer1(Script)の「Bullet」に「Combat_Attacks_Freeze_1_Cartoon」を設定し、
 
 「Combat_Attacks_Freeze_1_Cartoon」を開いてCombat Attack(Script)の「Sounds」のチェックを外します。
 
 その後、「Add Component」から「Box Collider」を追加し、「Center」をX・Y・Z全て０、「Size」ををX・Y・Z全て２にします。
+
+それから、「Combat_Attacks_Freeze_1_Cartoon」の「Tag」に「Bullet1」を設定します。
 
 5.「MonsterA」を開き、「Monster_A(Script)」の「Explosion」に「Explosion04b」を追加します。
 
