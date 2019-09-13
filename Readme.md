@@ -50,3 +50,5 @@ URL: http://unity-chan.com/contents/license_jp/
 「ゲームの操作方法.txt」をご覧ください。
 
 © Unity Technologies Japan/UCL
+
+![result](https://github.com/BraveDragon/Unity-chan-VS-Akaza/DemoPlay.gif)
