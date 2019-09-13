@@ -22,6 +22,10 @@ The Phantom Knowledge Project Data
 
 ユニティちゃんライセンス ロゴ
 
+実際のプレイ動画
+
+![Demo](https://github.com/BraveDragon/Unity-chan-VS-Akaza/blob/master/DemoPlay.gif)
+
 ＜「ユニティちゃん 3Dモデルデータ」、「The Phantom Knowledge Project Data」、「ユニティちゃんライセンス ロゴ」について＞
 
 「ユニティちゃん 3Dモデルデータ」、「The Phantom Knowledge Project Data」、「ユニティちゃんライセンス ロゴ」はユニティちゃんライセンス条項に基づいて提供されています。
@@ -51,6 +55,4 @@ URL: http://unity-chan.com/contents/license_jp/
 
 © Unity Technologies Japan/UCL
 
-実際のプレイ動画
 
-![Demo](https://github.com/BraveDragon/Unity-chan-VS-Akaza/blob/master/DemoPlay.gif)
