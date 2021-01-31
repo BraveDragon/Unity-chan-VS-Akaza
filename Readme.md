@@ -55,6 +55,12 @@ URL: http://unity-chan.com/contents/license_jp/
 
 「ゲームの操作方法.txt」をご覧ください。
 
+## ＜このプログラムのライセンス＞
+
+このプログラムはMITライセンスに従ってライセンスされています。
+
+利用の際は「LICENSE」ファイルをよく読んで、ライセンスに従ってご利用ください。
+
 © Unity Technologies Japan/UCL
 
 
